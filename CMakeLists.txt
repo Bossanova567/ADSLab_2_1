@@ -4,4 +4,6 @@ project(ADSLab_2_1)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(ADSLab_2_1
-        main.cpp)
+        main.cpp
+        Heap.cpp
+        Heap.h)

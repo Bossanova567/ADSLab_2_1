@@ -99,7 +99,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "22"
+			"value" : "23"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -111,7 +111,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "3"
+			"value" : "2"
 		},
 		{
 			"name" : "CMAKE_COMMAND",
@@ -162,7 +162,7 @@
 					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "F:/C++/1/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/cl.exe"
 		},
 		{
@@ -274,7 +274,7 @@
 					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "F:/C++/1/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/cl.exe"
 		},
 		{
@@ -879,7 +879,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "F:/C/CLion 2021.2.2/bin/cmake/win/share/cmake-3.22"
+			"value" : "F:/C/CLion 2021.2.2/bin/cmake/win/share/cmake-3.23"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
